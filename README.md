@@ -1,14 +1,17 @@
-<h1 align="center">Elias Kemal</h1>
-<h3 align="center">Computer Science Student | Future Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm Elias Kemal</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Future+Software+Engineer;Passionate+Problem+Solver;Always+Learning+New+Tech&center=true&width=500&height=45">
+</p>
 
 ---
 
 ## 👨‍🎓 About Me
 
-- 🎓 Computer Science student passionate about technology  
-- 💡 Interested in Software Development, AI, and Full-Stack Systems  
-- 🚀 Always learning new tools and improving problem-solving skills  
-- 🌱 Currently exploring Next.js and modern web development  
+- 🎓 Computer Science student  
+- 💻 Interested in Software Engineering & Web Development  
+- 🚀 Focused on building real-world projects  
+- 🌱 Currently improving DSA & Full-Stack skills  
 
 ---
 
@@ -29,21 +32,40 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Projects (Showcase)
 
-![Elias's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliaskem)
+### 🔹 Student Management System
+- Built using **Java & MySQL**
+- Handles student records and grading
+
+### 🔹 Portfolio Website
+- Built with **React & Tailwind CSS**
+- Fully responsive personal website
+
+### 🔹 OpenGL 2D Animation
+- C++ OpenGL project with vehicle & environment animation
+
+👉 *More projects coming soon…*
 
 ---
 
-## 📌 Current Focus
+## 📊 GitHub Statistics
 
-- Building real-world projects
-- Improving Data Structures & Algorithms
-- Learning AI Integration with Web Apps
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eliaskemal&show_icons=true&theme=default">
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=eliaskemal">
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- Email: kemalelias67@gmail.com
-- LinkedIn:https://www.linkedin.com/in/elias-kemal-ba90a5284/
+- 📧 Email: kemalelias67@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/elias-kemal-ba90a5284/
